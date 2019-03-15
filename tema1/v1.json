@@ -1,0 +1,10 @@
+{
+  "hostname": "vm1centos",
+  "CPU": 1,
+  "memory": 1024,
+  "vmemory": 16,
+  "adapter1": "NAT",
+  "adapter2": "host-only",
+  "updateOS": false,
+  "applist": "git"
+}
